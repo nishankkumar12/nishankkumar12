@@ -27,4 +27,4 @@
 
 ## Connect With Me
 - GitHub: https://github.com/nishankkumar12
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/nishank-kumar-965562390
